@@ -167,7 +167,7 @@ local function playBALIntro()
     welcomeText.Position = UDim2.new(0.5, 0, 0.5, 135)
     welcomeText.Size = UDim2.fromOffset(350, 20)
     welcomeText.BackgroundTransparency = 1
-    welcomeText.Text = "欢迎使用港猫辅助，祝你天天开心。"
+    welcomeText.Text = "欢迎使用港猫辅助，祝你天天开心"
     welcomeText.Font = Enum.Font.GothamMedium
     welcomeText.TextSize = 14
     welcomeText.TextColor3 = white
@@ -406,19 +406,19 @@ Tabs.wj:Code({
 Tabs.wj:Button({
      Title = "WindUI加载✅",
      Callback = function()
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/ggsq1741-debug/Wind1/refs/heads/main/WindUI2.lua"))()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/ggsq1741-debug/Wind1/refs/heads/main/WindUI3.lua"))()
      end
  })
  Tabs.wj:Button({
      Title = "ObsidianUI加载可以保存配置✅",
      Callback = function()
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/ggsq1741-debug/ObsidianUI/refs/heads/main/Obsidian2.lua"))()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/ggsq1741-debug/ObsidianUI/refs/heads/main/Obsidian3.lua"))()
      end
  })
  Tabs.wj:Button({
      Title = "ouroborosUI最佳的方式✅",
      Callback = function()
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/ggsq1741-debug/ouroborosUI/refs/heads/main/2ji%E6%B7%B7%E6%B7%86.lua"))()
+       loadstring(game:HttpGet("https://raw.githubusercontent.com/ggsq1741-debug/ouroborosUI/refs/heads/main/3ji%E6%B7%B7%E6%B7%86.lua"))()
      end
  })
  Window:SelectTab(1)
