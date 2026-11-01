@@ -167,7 +167,7 @@ local function playBALIntro()
     welcomeText.Position = UDim2.new(0.5, 0, 0.5, 135)
     welcomeText.Size = UDim2.fromOffset(350, 20)
     welcomeText.BackgroundTransparency = 1
-    welcomeText.Text = "欢迎使用港猫辅助，祝你天天开心"
+    welcomeText.Text = "欢迎使用港猫辅助祝你天天开心❤️"
     welcomeText.Font = Enum.Font.GothamMedium
     welcomeText.TextSize = 14
     welcomeText.TextColor3 = white
