@@ -398,18 +398,6 @@ Tabs.wj:Code({
     Code = "此脚本售价仅为15元"
 })
  Tabs.wj:Button({
-     Title = "AifflowUI简洁精简版",
-     Callback = function()
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/ggsq1741-debug/cQ/refs/heads/main/gangmao.lua"))()
-     end
- })
-Tabs.wj:Button({
-     Title = "WindUI加载✅",
-     Callback = function()
-       loadstring(game:HttpGet("https://raw.githubusercontent.com/ggsq1741-debug/Wind1/refs/heads/main/WindUI3.lua"))()
-     end
- })
- Tabs.wj:Button({
      Title = "ObsidianUI加载可以保存配置✅",
      Callback = function()
        loadstring(game:HttpGet("https://raw.githubusercontent.com/ggsq1741-debug/ObsidianUI/refs/heads/main/Obsidian3.lua"))()
