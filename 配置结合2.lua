@@ -390,7 +390,7 @@ local Window = WindUI:CreateWindow({
 
 -- ==================== 创建标签页 ====================
 local Tabs = {
-    wj = Window:Tab({ Title = "脚本加载配置最后3个配置只用选一个", Icon = "users" }), 
+    wj = Window:Tab({ Title = "2个配置选一个", Icon = "users" }), 
 }
 -- ==================== 主功能页 ====================
 Tabs.wj:Code({
