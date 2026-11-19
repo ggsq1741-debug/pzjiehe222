@@ -395,7 +395,7 @@ local Tabs = {
 -- ==================== 主功能页 ====================
 Tabs.wj:Code({
     Title = "你好",
-    Code = "此脚本售价仅为15元"
+    Code = "此脚本售价仅为20元"
 })
  Tabs.wj:Button({
      Title = "ObsidianUI加载可以保存配置✅",
